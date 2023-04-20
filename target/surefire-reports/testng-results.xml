@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-20T10:01:31 PDT" name="Test Suite" finished-at="2023-04-20T10:01:34 PDT" duration-ms="2048">
+  <suite started-at="2023-04-20T10:23:21 PDT" name="Test Suite" finished-at="2023-04-20T10:23:23 PDT" duration-ms="2057">
     <groups>
     </groups>
-    <test started-at="2023-04-20T10:01:31 PDT" name="Test" finished-at="2023-04-20T10:01:34 PDT" duration-ms="2048">
+    <test started-at="2023-04-20T10:23:21 PDT" name="Test" finished-at="2023-04-20T10:23:23 PDT" duration-ms="2057">
       <class name="co.edurekatraining.NewTest">
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:co.edurekatraining.NewTest@43195e57]" started-at="2023-04-20T10:01:32 PDT" name="beforeMethod" finished-at="2023-04-20T10:01:33 PDT" duration-ms="1824" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:co.edurekatraining.NewTest@43195e57]" started-at="2023-04-20T10:23:21 PDT" name="beforeMethod" finished-at="2023-04-20T10:23:23 PDT" duration-ms="1804" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="methodOne()[pri:0, instance:co.edurekatraining.NewTest@43195e57]" started-at="2023-04-20T10:01:33 PDT" name="methodOne" finished-at="2023-04-20T10:01:33 PDT" duration-ms="108" status="PASS">
+        <test-method signature="methodOne()[pri:0, instance:co.edurekatraining.NewTest@43195e57]" started-at="2023-04-20T10:23:23 PDT" name="methodOne" finished-at="2023-04-20T10:23:23 PDT" duration-ms="108" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- methodOne -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:co.edurekatraining.NewTest@43195e57]" started-at="2023-04-20T10:01:33 PDT" name="afterMethod" finished-at="2023-04-20T10:01:34 PDT" duration-ms="92" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:co.edurekatraining.NewTest@43195e57]" started-at="2023-04-20T10:23:23 PDT" name="afterMethod" finished-at="2023-04-20T10:23:23 PDT" duration-ms="120" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
